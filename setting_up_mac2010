@@ -1,0 +1,23 @@
+How do get started? 
+  https://www.opensuse.org/ 
+  https://en.opensuse.org/Main_Page 
+  latest release, openSUSE Leap 15.1 as of 6/19/20 
+  
+  Hardward requirements:
+    1.6Ghz chip is min, and my old macbook is 1.4. This might not work, but I'm going forward
+    
+  https://en.opensuse.org/SDB:Installation_on_a_Mac
+    Not sure what SDB stands for?
+    Mactel? assuming that's an intel chip macbook.
+    
+    openSUSE Leap 42.3 and 15.0 overwrite the default EFI boot manager, leaving impossible to load MacOS. 
+    Therefore it is necessary to install rEFInd after installing Linux.
+    
+    Asked to shrink disk0s2 to 60GB to make room for linux. The disk drive is only 56GB to begin with, so
+    I'm deciding to overwrite macOS completly. This will eliminate device driver updates. I'm guessing apple isn't updating
+    a macbook from 2010 anyway.
+    
+ 
+ 
+ Beginning to think this macbook might be too old, too small, and too slow. I can still use it as a youtube player, and
+ I might leave it alone.
