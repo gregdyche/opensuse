@@ -5,4 +5,4 @@ I want to experiment with github and run openSUSE natively on my old macbook. I 
 
 thanks, Greg
 
-PS I'll try to dual boot my 2015 macbook instead. The old 2010 macbook was too risk to go native because of a lack of ethernet card.
+P.S. I'll try to dual boot my 2015 macbook instead. The old 2010 macbook was too risk to go native because of a lack of ethernet card. I'm waiting on thumb drive. My old thumb drive didn't have enough space.
